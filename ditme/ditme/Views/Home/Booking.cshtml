@@ -1,0 +1,446 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+}
+
+<!-- Page 1: Flight Selection -->
+<div class="container" id="page1">
+    <div class="booking-header">
+        <h1>Select Your Flights</h1>
+        <p>Choose your preferred departure and return flights</p>
+    </div>
+
+    <div class="booking-steps">
+        <div class="step active">
+            <div class="step-number">1</div>
+            <span>Flights</span>
+        </div>
+        <div class="step-line"></div>
+        <div class="step">
+            <div class="step-number">2</div>
+            <span>Add-ons</span>
+        </div>
+        <div class="step-line"></div>
+        <div class="step">
+            <div class="step-number">3</div>
+            <span>Payment</span>
+        </div>
+    </div>
+
+    <div class="flight-summary">
+        <h3>Your Selection</h3>
+        <div class="flight-route">
+            <div class="route-details">
+                <h4>Germany</h4>
+                <p>01 JUN 2023</p>
+            </div>
+            <div>✈️</div>
+            <div class="route-details">
+                <h4>Australia</h4>
+                <p>10 JUN 2023</p>
+            </div>
+        </div>
+        <div class="flight-details">
+            <div class="detail-col">
+                <p><strong>Travelers:</strong> 2</p>
+            </div>
+            <div class="detail-col">
+                <p><strong>Class:</strong> Economy</p>
+            </div>
+            <div class="detail-col">
+                <p><strong>Trip Type:</strong> Round Trip</p>
+            </div>
+        </div>
+    </div>
+
+    <h3>Outbound Flight - June 1, 2023</h3>
+    <div class="form-group">
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Lufthansa LH772</h4>
+                <p>Frankfurt (FRA) 10:30 → Sydney (SYD) 06:45 (+1)</p>
+                <p>Duration: 21h 15m | Boeing 747-800</p>
+            </div>
+            <div class="addon-price">€850</div>
+            <input type="radio" name="outbound" checked value="Lufthansa LH772" data-price="850">
+        </div>
+
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Singapore Airlines SQ326</h4>
+                <p>Frankfurt (FRA) 12:25 → Sydney (SYD) 08:15 (+1)</p>
+                <p>Duration: 22h 50m | 1 Stop in Singapore</p>
+            </div>
+            <div class="addon-price">€795</div>
+            <input type="radio" name="outbound" value="Singapore Airlines SQ326" data-price="795">
+        </div>
+
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Emirates EK46</h4>
+                <p>Frankfurt (FRA) 15:40 → Sydney (SYD) 09:30 (+1)</p>
+                <p>Duration: 22h 50m | 1 Stop in Dubai</p>
+            </div>
+            <div class="addon-price">€805</div>
+            <input type="radio" name="outbound" value="Emirates EK46" data-price="805">
+        </div>
+    </div>
+
+    <h3>Return Flight - June 10, 2023</h3>
+    <div class="form-group">
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Qantas QF5</h4>
+                <p>Sydney (SYD) 16:10 → Frankfurt (FRA) 06:25 (+1)</p>
+                <p>Duration: 23h 15m | Boeing 787-9</p>
+            </div>
+            <div class="addon-price">€875</div>
+            <input type="radio" name="return" checked value="Qantas QF5" data-price="875">
+        </div>
+
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Singapore Airlines SQ212</h4>
+                <p>Sydney (SYD) 12:15 → Frankfurt (FRA) 05:55 (+1)</p>
+                <p>Duration: 24h 40m | 1 Stop in Singapore</p>
+            </div>
+            <div class="addon-price">€810</div>
+            <input type="radio" name="return" value="Singapore Airlines SQ212" data-price="810">
+        </div>
+
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Emirates EK412</h4>
+                <p>Sydney (SYD) 21:10 → Frankfurt (FRA) 12:35 (+1)</p>
+                <p>Duration: 25h 25m | 1 Stop in Dubai</p>
+            </div>
+            <div class="addon-price">€790</div>
+            <input type="radio" name="return" value="Emirates EK412" data-price="790">
+        </div>
+    </div>
+
+    <div class="action-buttons">
+        <button class="btn btn-outline">Back</button>
+        <button class="btn" onclick="showPage(2)">Continue</button>
+    </div>
+</div>
+
+<!-- Page 2: Add-ons Selection -->
+<div class="container" id="page2">
+    <div class="booking-header">
+        <h1>Choose Add-ons</h1>
+        <p>Customize your journey with meal options and extra luggage</p>
+    </div>
+
+    <div class="booking-steps">
+        <div class="step active">
+            <div class="step-number">1</div>
+            <span>Flights</span>
+        </div>
+        <div class="step-line"></div>
+        <div class="step active">
+            <div class="step-number">2</div>
+            <span>Add-ons</span>
+        </div>
+        <div class="step-line"></div>
+        <div class="step">
+            <div class="step-number">3</div>
+            <span>Payment</span>
+        </div>
+    </div>
+
+    <div class="flight-summary">
+        <h3>Flight Summary</h3>
+        <div class="flight-route">
+            <div class="route-details">
+                <h4>Germany</h4>
+                <p>01 JUN 2023</p>
+            </div>
+            <div>✈️</div>
+            <div class="route-details">
+                <h4>Australia</h4>
+                <p>10 JUN 2023</p>
+            </div>
+        </div>
+        <div id="flight-selections-summary" class="flight-selections-summary">
+            <p>Outbound: <span id="selected-outbound">Lufthansa LH772 (€850)</span></p>
+            <p>Return: <span id="selected-return">Qantas QF5 (€875)</span></p>
+        </div>
+    </div>
+
+    <h3>Meal Options</h3>
+    <div class="form-group">
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Standard Meal</h4>
+                <p>Regular in-flight meal included with your ticket</p>
+            </div>
+            <div class="addon-price">Included</div>
+            <input type="radio" name="meal" checked value="Standard Meal" data-price="0">
+        </div>
+
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Premium Meal</h4>
+                <p>Upgraded meal with premium ingredients and wine</p>
+            </div>
+            <div class="addon-price">+€35</div>
+            <input type="radio" name="meal" value="Premium Meal" data-price="35">
+        </div>
+
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Special Diet Meal</h4>
+                <p>Vegetarian, Vegan, Gluten-free, or other dietary requirements</p>
+            </div>
+            <div class="addon-price">+€15</div>
+            <input type="radio" name="meal" value="Special Diet Meal" data-price="15">
+        </div>
+    </div>
+
+    <h3>Extra Luggage</h3>
+    <div class="form-group">
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Standard Allowance</h4>
+                <p>1 checked bag (23kg) + 1 carry-on (7kg)</p>
+            </div>
+            <div class="addon-price">Included</div>
+            <input type="radio" name="luggage" checked value="Standard Allowance" data-price="0">
+        </div>
+
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Extra Checked Bag</h4>
+                <p>Add 1 additional checked bag (23kg)</p>
+            </div>
+            <div class="addon-price">+€60</div>
+            <input type="radio" name="luggage" value="Extra Checked Bag" data-price="60">
+        </div>
+
+        <div class="addon-item">
+            <div class="addon-info">
+                <h4>Extra Weight</h4>
+                <p>Increase weight allowance of checked bag to 32kg</p>
+            </div>
+            <div class="addon-price">+€40</div>
+            <input type="radio" name="luggage" value="Extra Weight" data-price="40">
+        </div>
+    </div>
+
+    <h3>Seat Selection</h3>
+    <div class="form-group">
+        <div class="addon-info">
+            <h4>Select Your Seats</h4>
+            <p>Click on seats to select. Window seats (columns A and F) cost an additional €10 per seat.</p>
+        </div>
+    </div>
+
+    <div class="seating-chart">
+        <div class="seat-label">Window</div>
+        <div class="seat-label">Middle</div>
+        <div class="seat-label">Aisle</div>
+        <div class="seat-label">Aisle</div>
+        <div class="seat-label">Middle</div>
+        <div class="seat-label">Window</div>
+
+        <div class="seat" data-premium="true">1A</div>
+        <div class="seat">1B</div>
+        <div class="seat occupied">1C</div>
+        <div class="seat">1D</div>
+        <div class="seat">1E</div>
+        <div class="seat" data-premium="true">1F</div>
+
+        <div class="seat" data-premium="true">2A</div>
+        <div class="seat">2B</div>
+        <div class="seat">2C</div>
+        <div class="seat">2D</div>
+        <div class="seat">2E</div>
+        <div class="seat" data-premium="true">2F</div>
+
+        <div class="seat" data-premium="true">3A</div>
+        <div class="seat">3B</div>
+        <div class="seat">3C</div>
+        <div class="seat">3D</div>
+        <div class="seat">3E</div>
+        <div class="seat" data-premium="true">3F</div>
+
+        <div class="seat" data-premium="true">4A</div>
+        <div class="seat">4B</div>
+        <div class="seat">4C</div>
+        <div class="seat">4D</div>
+        <div class="seat">4E</div>
+        <div class="seat" data-premium="true">4F</div>
+
+        <div class="seat" data-premium="true">5A</div>
+        <div class="seat">5B</div>
+        <div class="seat">5C</div>
+        <div class="seat">5D</div>
+        <div class="seat">5E</div>
+        <div class="seat" data-premium="true">5F</div>
+
+        <div class="seat" data-premium="true">6A</div>
+        <div class="seat">6B</div>
+        <div class="seat">6C</div>
+        <div class="seat">6D</div>
+        <div class="seat">6E</div>
+        <div class="seat" data-premium="true">6F</div>
+    </div>
+
+    <div class="seat-legend">
+        <div class="legend-item">
+            <div class="seat-example"></div>
+            <span>Available</span>
+        </div>
+        <div class="legend-item">
+            <div class="seat-example occupied"></div>
+            <span>Occupied</span>
+        </div>
+        <div class="legend-item">
+            <div class="seat-example selected"></div>
+            <span>Selected</span>
+        </div>
+        <div class="legend-item">
+            <div class="seat-example premium"></div>
+            <span>Window (+€10)</span>
+        </div>
+    </div>
+
+    <div id="addon-summary" class="addon-summary">
+        <h3>Your Selections</h3>
+        <div id="seat-selection-summary">No seats selected</div>
+        <div id="total-price">Total Price: €3,450</div>
+    </div>
+
+    <div class="action-buttons">
+        <button class="btn btn-outline" onclick="showPage(1)">Back</button>
+        <button class="btn" onclick="showPage(3)">Continue</button>
+    </div>
+</div>
+
+<!-- Page 3: Passenger Information -->
+<div class="container" id="page3">
+    <div class="booking-header">
+        <h1>Passenger Information</h1>
+        <p>Please enter the details of all passengers</p>
+    </div>
+
+    <div class="booking-steps">
+        <div class="step active">
+            <div class="step-number">1</div>
+            <span>Flights</span>
+        </div>
+        <div class="step-line"></div>
+        <div class="step active">
+            <div class="step-number">2</div>
+            <span>Add-ons</span>
+        </div>
+        <div class="step-line"></div>
+        <div class="step active">
+            <div class="step-number">3</div>
+            <span>Payment</span>
+        </div>
+    </div>
+
+    <div class="flight-summary">
+        <h3>Booking Summary</h3>
+        <div class="flight-route">
+            <div class="route-details">
+                <h4>Germany</h4>
+                <p>01 JUN 2023</p>
+            </div>
+            <div>✈️</div>
+            <div class="route-details">
+                <h4>Australia</h4>
+                <p>10 JUN 2023</p>
+            </div>
+        </div>
+        <div id="payment-flight-summary" class="flight-selections-summary">
+            <p>Outbound: <span id="payment-outbound">Lufthansa LH772 (€850)</span></p>
+            <p>Return: <span id="payment-return">Qantas QF5 (€875)</span></p>
+        </div>
+    </div>
+
+    <h3>Passenger 1 (Adult)</h3>
+    <div class="form-row">
+        <div class="form-col">
+            <label for="title">Title</label>
+            <select class="form-control" id="title">
+                <option>Mr.</option>
+                <option>Mrs.</option>
+                <option>Ms.</option>
+                <option>Dr.</option>
+            </select>
+        </div>
+        <div class="form-col">
+            <label for="firstname">First Name</label>
+            <input type="text" class="form-control" id="firstname" placeholder="As on passport/ID">
+        </div>
+        <div class="form-col">
+            <label for="lastname">Last Name</label>
+            <input type="text" class="form-control" id="lastname" placeholder="As on passport/ID">
+        </div>
+    </div>
+
+    <div class="form-row">
+        <div class="form-col">
+            <label for="dob">Date of Birth</label>
+            <input type="date" class="form-control" id="dob">
+        </div>
+        <div class="form-col">
+            <label for="nationality">Nationality</label>
+            <select class="form-control" id="nationality">
+                <option>German</option>
+                <option>Australian</option>
+                <option>United States</option>
+                <option>United Kingdom</option>
+                <option>Other</option>
+            </select>
+        </div>
+        <div class="form-col">
+            <label for="passport">Passport Number</label>
+            <input type="text" class="form-control" id="passport" placeholder="Passport Number">
+        </div>
+    </div>
+
+    <h3>Contact Information</h3>
+    <div class="form-row">
+        <div class="form-col">
+            <label for="email">Email</label>
+            <input type="email" class="form-control" id="email" placeholder="Email for booking confirmation">
+        </div>
+        <div class="form-col">
+            <label for="phone">Phone Number</label>
+            <input type="tel" class="form-control" id="phone" placeholder="Phone Number">
+        </div>
+    </div>
+
+    <h3>Payment Summary</h3>
+    <div class="payment-summary" id="payment-summary">
+        <!-- This will be populated by JavaScript -->
+    </div>
+
+    <div class="form-group">
+        <label for="payment">Payment Method</label>
+        <select class="form-control" id="payment">
+            <option>Credit Card</option>
+            <option>PayPal</option>
+            <option>Bank Transfer</option>
+        </select>
+    </div>
+
+    <div class="form-group">
+        <div class="radio-option">
+            <input type="checkbox" id="terms" checked>
+            <label for="terms">I agree to the Terms and Conditions</label>
+        </div>
+    </div>
+
+    <div class="action-buttons">
+        <button class="btn btn-outline" onclick="showPage(2)">Back</button>
+        <button class="btn" id="complete-booking">Complete Booking</button>
+    </div>
+</div>
+
+<script src="~/js/booking.js"></script>
