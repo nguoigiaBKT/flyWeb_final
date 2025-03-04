@@ -1,4 +1,18 @@
-﻿// Please see documentation at https://learn.microsoft.com/aspnet/core/client-side/bundling-and-minification
-// for details on configuring this project to bundle and minify static web assets.
+﻿document.addEventListener("DOMContentLoaded", function () {
+    let oneWay = document.getElementById("one-way");
+    let roundWay = document.getElementById("round-way");
+    let checkOutGroup = document.getElementById("check-out-group");
 
-// Write your JavaScript code.
+    function toggleCheckOut() {
+        if (oneWay.checked) {
+            checkOutGroup.style.display = "none";
+        } else {
+            checkOutGroup.style.display = "flex";
+        }
+    }
+
+    oneWay.addEventListener("change", toggleCheckOut);
+    roundWay.addEventListener("change", toggleCheckOut);
+
+    toggleCheckOut(); // Ensure initial state
+});

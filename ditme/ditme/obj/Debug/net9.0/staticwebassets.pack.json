@@ -1,471 +1,471 @@
 {
   "Files": [
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ditme.bundle.scp.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\ditme.bundle.scp.css",
       "PackagePath": "staticwebassets\\ditme.sjhmk8up7v.bundle.scp.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\css\\booking.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\css\\booking.css",
       "PackagePath": "staticwebassets\\css\\booking.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\css\\site.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\favicon.ico",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\079b7834-ad49-4700-960f-a7e187593fff.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\079b7834-ad49-4700-960f-a7e187593fff.png",
       "PackagePath": "staticwebassets\\img\\079b7834-ad49-4700-960f-a7e187593fff.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\07b29bf413c853e1645dd4e16e5367722be278ee.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\07b29bf413c853e1645dd4e16e5367722be278ee.png",
       "PackagePath": "staticwebassets\\img\\07b29bf413c853e1645dd4e16e5367722be278ee.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\07d3c52f-5388-47dc-bb2b-f36468ea05a6.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\07d3c52f-5388-47dc-bb2b-f36468ea05a6.png",
       "PackagePath": "staticwebassets\\img\\07d3c52f-5388-47dc-bb2b-f36468ea05a6.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\18c98b4714e78e80e8fcf9ea8bfec662263302b8.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\18c98b4714e78e80e8fcf9ea8bfec662263302b8.png",
       "PackagePath": "staticwebassets\\img\\18c98b4714e78e80e8fcf9ea8bfec662263302b8.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\1c53aa0f-c4c2-422b-a231-12d78cc27ee1.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\1c53aa0f-c4c2-422b-a231-12d78cc27ee1.png",
       "PackagePath": "staticwebassets\\img\\1c53aa0f-c4c2-422b-a231-12d78cc27ee1.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\23159858-effa-415c-b1d3-5180440ec4ce.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\23159858-effa-415c-b1d3-5180440ec4ce.png",
       "PackagePath": "staticwebassets\\img\\23159858-effa-415c-b1d3-5180440ec4ce.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\255c0479-c7ff-4667-a975-b1f33bdf94e3.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\255c0479-c7ff-4667-a975-b1f33bdf94e3.png",
       "PackagePath": "staticwebassets\\img\\255c0479-c7ff-4667-a975-b1f33bdf94e3.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\29a80483-801d-4146-b550-f8a3b8d3f402.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\29a80483-801d-4146-b550-f8a3b8d3f402.png",
       "PackagePath": "staticwebassets\\img\\29a80483-801d-4146-b550-f8a3b8d3f402.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\3105f7cbc611139e0ae43262325f33ca4be9e987.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\3105f7cbc611139e0ae43262325f33ca4be9e987.png",
       "PackagePath": "staticwebassets\\img\\3105f7cbc611139e0ae43262325f33ca4be9e987.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\3e56091d13a962cf642b3a1ac069668e6ffd6a02.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\3e56091d13a962cf642b3a1ac069668e6ffd6a02.png",
       "PackagePath": "staticwebassets\\img\\3e56091d13a962cf642b3a1ac069668e6ffd6a02.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\53632b41-3f37-4ae5-bfc1-b75306c4b00e.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\53632b41-3f37-4ae5-bfc1-b75306c4b00e.png",
       "PackagePath": "staticwebassets\\img\\53632b41-3f37-4ae5-bfc1-b75306c4b00e.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\5ee0575b-5688-45b7-8d49-e154fea62578.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\5ee0575b-5688-45b7-8d49-e154fea62578.png",
       "PackagePath": "staticwebassets\\img\\5ee0575b-5688-45b7-8d49-e154fea62578.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\622adfc4-e6fb-426f-8cf1-531c413065c7.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\622adfc4-e6fb-426f-8cf1-531c413065c7.png",
       "PackagePath": "staticwebassets\\img\\622adfc4-e6fb-426f-8cf1-531c413065c7.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\69fea93e-240c-4929-a257-3a26db5958a6.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\69fea93e-240c-4929-a257-3a26db5958a6.png",
       "PackagePath": "staticwebassets\\img\\69fea93e-240c-4929-a257-3a26db5958a6.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\6d4b2d60-8359-48cc-b496-7df936a909ce.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\6d4b2d60-8359-48cc-b496-7df936a909ce.png",
       "PackagePath": "staticwebassets\\img\\6d4b2d60-8359-48cc-b496-7df936a909ce.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\6de23d2e-822d-4bb6-9edf-242a08d3732d.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\6de23d2e-822d-4bb6-9edf-242a08d3732d.png",
       "PackagePath": "staticwebassets\\img\\6de23d2e-822d-4bb6-9edf-242a08d3732d.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\6eb634717c1b8550a8100afda88cddaf17299aff.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\6eb634717c1b8550a8100afda88cddaf17299aff.png",
       "PackagePath": "staticwebassets\\img\\6eb634717c1b8550a8100afda88cddaf17299aff.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\708e706b-ce0d-4d85-b9e0-d76b927197ea.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\708e706b-ce0d-4d85-b9e0-d76b927197ea.png",
       "PackagePath": "staticwebassets\\img\\708e706b-ce0d-4d85-b9e0-d76b927197ea.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\7663606e-3d31-4035-b9a4-21dbec1c8feb.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\7663606e-3d31-4035-b9a4-21dbec1c8feb.png",
       "PackagePath": "staticwebassets\\img\\7663606e-3d31-4035-b9a4-21dbec1c8feb.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\7887ded3-9e81-4380-98ea-fe650881c088.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\7887ded3-9e81-4380-98ea-fe650881c088.png",
       "PackagePath": "staticwebassets\\img\\7887ded3-9e81-4380-98ea-fe650881c088.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\7ce9f5f0727e1ca544fe2435f797c34a264ba6ab.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\7ce9f5f0727e1ca544fe2435f797c34a264ba6ab.png",
       "PackagePath": "staticwebassets\\img\\7ce9f5f0727e1ca544fe2435f797c34a264ba6ab.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\82837977-7522-46e9-be71-aeb5b53c0990.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\82837977-7522-46e9-be71-aeb5b53c0990.png",
       "PackagePath": "staticwebassets\\img\\82837977-7522-46e9-be71-aeb5b53c0990.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\828e9104-570b-487c-b18f-d61c11ec5e0b.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\828e9104-570b-487c-b18f-d61c11ec5e0b.png",
       "PackagePath": "staticwebassets\\img\\828e9104-570b-487c-b18f-d61c11ec5e0b.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\8b66924b-ae2b-45b7-886c-1ab26c3e9e45.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\8b66924b-ae2b-45b7-886c-1ab26c3e9e45.png",
       "PackagePath": "staticwebassets\\img\\8b66924b-ae2b-45b7-886c-1ab26c3e9e45.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\99689760f51d7c67df9066d4e7890b9be8e7c20f.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\99689760f51d7c67df9066d4e7890b9be8e7c20f.png",
       "PackagePath": "staticwebassets\\img\\99689760f51d7c67df9066d4e7890b9be8e7c20f.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\a3166cdd-d5d4-45b4-93de-64882230beb8.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\a3166cdd-d5d4-45b4-93de-64882230beb8.png",
       "PackagePath": "staticwebassets\\img\\a3166cdd-d5d4-45b4-93de-64882230beb8.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\a72de13f-add0-4a71-b96b-bdd8b927e24c.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\a72de13f-add0-4a71-b96b-bdd8b927e24c.png",
       "PackagePath": "staticwebassets\\img\\a72de13f-add0-4a71-b96b-bdd8b927e24c.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\aed6ab4c-e486-4e19-8254-e95b51f59c0e.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\aed6ab4c-e486-4e19-8254-e95b51f59c0e.png",
       "PackagePath": "staticwebassets\\img\\aed6ab4c-e486-4e19-8254-e95b51f59c0e.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\b02c9595-6b71-46b7-b265-96e92e443ae0.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\b02c9595-6b71-46b7-b265-96e92e443ae0.png",
       "PackagePath": "staticwebassets\\img\\b02c9595-6b71-46b7-b265-96e92e443ae0.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\b16d9c7ea5c763842d9cdf47672af4c9c2c79da9.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\b16d9c7ea5c763842d9cdf47672af4c9c2c79da9.png",
       "PackagePath": "staticwebassets\\img\\b16d9c7ea5c763842d9cdf47672af4c9c2c79da9.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\b288a99d-b512-4d98-83e6-8f1dbdfa803c.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\b288a99d-b512-4d98-83e6-8f1dbdfa803c.png",
       "PackagePath": "staticwebassets\\img\\b288a99d-b512-4d98-83e6-8f1dbdfa803c.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\b58ede2ccd8df44fab614a521ff8e838513d4cd0.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\b58ede2ccd8df44fab614a521ff8e838513d4cd0.png",
       "PackagePath": "staticwebassets\\img\\b58ede2ccd8df44fab614a521ff8e838513d4cd0.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\b836b0c6-2111-49f1-a2eb-a77bb11e3d1f.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\b836b0c6-2111-49f1-a2eb-a77bb11e3d1f.png",
       "PackagePath": "staticwebassets\\img\\b836b0c6-2111-49f1-a2eb-a77bb11e3d1f.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\bb840661-c8c2-4591-bd4b-590e47dde2a1.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\bb840661-c8c2-4591-bd4b-590e47dde2a1.png",
       "PackagePath": "staticwebassets\\img\\bb840661-c8c2-4591-bd4b-590e47dde2a1.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\bec9356e-79e4-4929-88d7-c185236e5455.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\bec9356e-79e4-4929-88d7-c185236e5455.png",
       "PackagePath": "staticwebassets\\img\\bec9356e-79e4-4929-88d7-c185236e5455.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\bf6d3951-1d61-4066-a61f-6f251e88cbad.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\bf6d3951-1d61-4066-a61f-6f251e88cbad.png",
       "PackagePath": "staticwebassets\\img\\bf6d3951-1d61-4066-a61f-6f251e88cbad.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\c3ad3587-63d7-4b83-a595-7b7a689be63f.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\c3ad3587-63d7-4b83-a595-7b7a689be63f.png",
       "PackagePath": "staticwebassets\\img\\c3ad3587-63d7-4b83-a595-7b7a689be63f.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\c4bdfb0c-1281-49b1-97d9-f0d426a89016.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\c4bdfb0c-1281-49b1-97d9-f0d426a89016.png",
       "PackagePath": "staticwebassets\\img\\c4bdfb0c-1281-49b1-97d9-f0d426a89016.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\cc27978e-92bc-43b5-ac47-8fb3056d6dae.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\cc27978e-92bc-43b5-ac47-8fb3056d6dae.png",
       "PackagePath": "staticwebassets\\img\\cc27978e-92bc-43b5-ac47-8fb3056d6dae.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\d35b7afc-17d4-4237-bd8d-83c3226fa9a6.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\d35b7afc-17d4-4237-bd8d-83c3226fa9a6.png",
       "PackagePath": "staticwebassets\\img\\d35b7afc-17d4-4237-bd8d-83c3226fa9a6.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\d608eb3e-9585-4f19-8be0-9b94619ca819.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\d608eb3e-9585-4f19-8be0-9b94619ca819.png",
       "PackagePath": "staticwebassets\\img\\d608eb3e-9585-4f19-8be0-9b94619ca819.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\e53af2d1-847a-4a22-afc5-274e77111d69.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\e53af2d1-847a-4a22-afc5-274e77111d69.png",
       "PackagePath": "staticwebassets\\img\\e53af2d1-847a-4a22-afc5-274e77111d69.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\e6ed93e5-bf02-403d-89a4-457b206b5fab.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\e6ed93e5-bf02-403d-89a4-457b206b5fab.png",
       "PackagePath": "staticwebassets\\img\\e6ed93e5-bf02-403d-89a4-457b206b5fab.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\ea4cc688-1151-42f3-a476-92f94f6177a4.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\ea4cc688-1151-42f3-a476-92f94f6177a4.png",
       "PackagePath": "staticwebassets\\img\\ea4cc688-1151-42f3-a476-92f94f6177a4.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\ec363862-11cf-47f2-903f-854223a382b4.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\ec363862-11cf-47f2-903f-854223a382b4.png",
       "PackagePath": "staticwebassets\\img\\ec363862-11cf-47f2-903f-854223a382b4.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\ef5b8ab73e890a5dd5de5f9d4226847a33a11b3c.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\ef5b8ab73e890a5dd5de5f9d4226847a33a11b3c.png",
       "PackagePath": "staticwebassets\\img\\ef5b8ab73e890a5dd5de5f9d4226847a33a11b3c.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\f44ccca9-ed5a-4dd8-ba5c-3befb4dfb780.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\f44ccca9-ed5a-4dd8-ba5c-3befb4dfb780.png",
       "PackagePath": "staticwebassets\\img\\f44ccca9-ed5a-4dd8-ba5c-3befb4dfb780.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\f69b356037268453a721af109466dae98fa93dc7.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\f69b356037268453a721af109466dae98fa93dc7.png",
       "PackagePath": "staticwebassets\\img\\f69b356037268453a721af109466dae98fa93dc7.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\f7ba7358-32bd-4ff2-9294-e071f9d0ee3d.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\f7ba7358-32bd-4ff2-9294-e071f9d0ee3d.png",
       "PackagePath": "staticwebassets\\img\\f7ba7358-32bd-4ff2-9294-e071f9d0ee3d.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\f83c2cb5-cb58-4c9c-8bfa-8db657bf0d20.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\f83c2cb5-cb58-4c9c-8bfa-8db657bf0d20.png",
       "PackagePath": "staticwebassets\\img\\f83c2cb5-cb58-4c9c-8bfa-8db657bf0d20.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\img\\fcd76fef-5dc6-41cb-93fd-6ba6a66e950f.png",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\img\\fcd76fef-5dc6-41cb-93fd-6ba6a66e950f.png",
       "PackagePath": "staticwebassets\\img\\fcd76fef-5dc6-41cb-93fd-6ba6a66e950f.png"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\js\\booking.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\js\\booking.js",
       "PackagePath": "staticwebassets\\js\\booking.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\js\\site.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
     },
     {
-      "Id": "D:\\HUTECH\\LapTrinhWeb\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
     },
     {

@@ -43,42 +43,37 @@
 
                 <div class="date-container">
                     <div class="group-9">
-                        <div class="rectangle-a"></div>
-                        <div class="vuesax-bold-calendar">
-                            <div class="vuesax-bold-calendar-b"></div>
-                        </div>
-                        <span class="check-in">Check In</span>
-                        <div class="frame-c"></div>
-                        <span class="jun">01 JUN 2023</span>
+                        <label for="check-in">Check In</label>
+                        <input type="date" id="check-in" class="date-input" value="2023-06-01">
                     </div>
 
                     <div class="group-9">
-                        <div class="flex-row-cd">
-                            <div class="vuesax-bold-calendar-18">
-                                <div class="vuesax-bold-calendar-19">
-                                    <div class="pic-4"></div>
-                                </div>
-                                <span class="check-out">Check Out</span>
-                            </div>
-                            <div class="flex-row">
-                                <span class="jun-date">10 JUN 2023</span>
-                                <div class="frame-1a"></div>
-                            </div>
-                        </div>
-                        <div class="rectangle-1b"></div>
+                        <label for="check-out">Check Out</label>
+                        <input type="date" id="check-out" class="date-input" value="2023-06-10">
                     </div>
                 </div>
+                <!--Đaay-->
 
             </div>
+
             <div class="flex-row-bb">
-                <span class="one-way">ONE WAY</span>
-                <span class="round-way">ROUND WAY</span>
-                <div class="frame-21"></div>
-                <div class="frame-22"></div>
+                <label class="option">
+                    <input type="radio" name="tripType" value="one_way" class="radio-input">
+                    <span class="one-way">ONE WAY</span>
+                    <div class="frame-21"></div>
+                </label>
+
+                <label class="option">
+                    <input type="radio" name="tripType" value="round_way" class="radio-input" checked>
+                    <span class="round-way">ROUND WAY</span>
+                    <div class="frame-22"></div>
+                </label>
             </div>
-            <button class="frame-32">
-                <a asp-controller="Home" asp-action="Booking" class="book-now">Book Now</a>
-            </button>
+
+            <form asp-controller="Home" asp-action="Booking" method="get">
+                <button type="submit" class="frame-32">Book Now</button>
+            </form>
+
         </div>
     </div>
     <div class="flex-row-33">
