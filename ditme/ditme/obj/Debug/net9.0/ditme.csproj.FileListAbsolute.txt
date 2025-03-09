@@ -197,5 +197,5 @@ D:\HUTECH\LapTrinhWeb\flyWeb_final\ditme\ditme\obj\Debug\net9.0\refint\ditme.dll
 D:\HUTECH\LapTrinhWeb\flyWeb_final\ditme\ditme\obj\Debug\net9.0\ditme.pdb
 D:\HUTECH\LapTrinhWeb\flyWeb_final\ditme\ditme\obj\Debug\net9.0\ditme.genruntimeconfig.cache
 D:\HUTECH\LapTrinhWeb\flyWeb_final\ditme\ditme\obj\Debug\net9.0\ref\ditme.dll
-D:\HUTECH\LapTrinhWeb\flyWeb_final\ditme\ditme\obj\Debug\net9.0\compressed\eixpcbqz4r-txu43rt688.gz
-D:\HUTECH\LapTrinhWeb\flyWeb_final\ditme\ditme\obj\Debug\net9.0\compressed\c7y9srjvzy-kwee3nxv2y.gz
+D:\HUTECH\LapTrinhWeb\flyWeb_final\ditme\ditme\obj\Debug\net9.0\compressed\eixpcbqz4r-6dj9j90sir.gz
+D:\HUTECH\LapTrinhWeb\flyWeb_final\ditme\ditme\obj\Debug\net9.0\compressed\c7y9srjvzy-ecdaphjazp.gz

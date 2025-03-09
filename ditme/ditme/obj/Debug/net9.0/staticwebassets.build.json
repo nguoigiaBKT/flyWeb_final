@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "nXpohShoKQMTbKi5R5u+lWBnO/E8XfI2JRuWDn8qPbc=",
+  "Hash": "joqUwqG/wGt2q0e9KR0gXkZ9/7IgWutiqy8BbfWYGr4=",
   "Source": "ditme",
   "BasePath": "_content/ditme",
   "Mode": "Default",
@@ -332,12 +332,12 @@
       "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\c7y9srjvzy-kwee3nxv2y.gz",
+      "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\c7y9srjvzy-ecdaphjazp.gz",
       "SourceId": "ditme",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ditme",
-      "RelativePath": "css/site#[.{fingerprint=kwee3nxv2y}]?.css.gz",
+      "RelativePath": "css/site#[.{fingerprint=ecdaphjazp}]?.css.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -346,32 +346,11 @@
       "RelatedAsset": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\css\\site.css",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "mjf4unb9s5",
-      "Integrity": "Tk6hbu82pUKQMrkZIZxQwRifGIV0X6pW8Hwds35EB4k=",
+      "Fingerprint": "y76rje510c",
+      "Integrity": "wiyHvuatNXXWoPEndpPr1l3JgrY5oS0OnSeQlzrIAzs=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\css\\site.css"
-    },
-    {
-      "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\cheg24e1i2-kbrnm935zg.gz",
-      "SourceId": "ditme",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/ditme",
-      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint=kbrnm935zg}]?.map.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "6e2hoibiq5",
-      "Integrity": "oglZ6aWY/UXq+QsVhwhOwfIZbgvz7Dvjg/GfXmQsBVM=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
       "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\ckgz1j9ixu-ltid2c489k.gz",
@@ -416,6 +395,27 @@
       "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery-validation\\LICENSE.md"
     },
     {
+      "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\cheg24e1i2-kbrnm935zg.gz",
+      "SourceId": "ditme",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ditme",
+      "RelativePath": "lib/bootstrap/dist/js/bootstrap.esm.js#[.{fingerprint=kbrnm935zg}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "6e2hoibiq5",
+      "Integrity": "oglZ6aWY/UXq+QsVhwhOwfIZbgvz7Dvjg/GfXmQsBVM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
       "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\dkqfbbyhq3-xvp3kq03qx.gz",
       "SourceId": "ditme",
       "SourceType": "Discovered",
@@ -458,12 +458,12 @@
       "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\eixpcbqz4r-txu43rt688.gz",
+      "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\eixpcbqz4r-6dj9j90sir.gz",
       "SourceId": "ditme",
       "SourceType": "Discovered",
       "ContentRoot": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\",
       "BasePath": "_content/ditme",
-      "RelativePath": "js/site#[.{fingerprint=txu43rt688}]?.js.gz",
+      "RelativePath": "js/site#[.{fingerprint=6dj9j90sir}]?.js.gz",
       "AssetKind": "All",
       "AssetMode": "All",
       "AssetRole": "Alternative",
@@ -472,8 +472,8 @@
       "RelatedAsset": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\js\\site.js",
       "AssetTraitName": "Content-Encoding",
       "AssetTraitValue": "gzip",
-      "Fingerprint": "erlmjaouxk",
-      "Integrity": "Vo1otUkz5dy99clnILucyzIotAkzBqLXH4TYm8uqcE4=",
+      "Fingerprint": "5df4j5hull",
+      "Integrity": "NyK86qfGqsG82EscJxqIcsldgh8UvZ2QZqAY49s4cpY=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\js\\site.js"
@@ -731,27 +731,6 @@
       "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\khs6clargo-m9qm4tazc0.gz",
-      "SourceId": "ditme",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/ditme",
-      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint=m9qm4tazc0}]?.js.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "j8ieijp4iy",
-      "Integrity": "02ENHLBRCTwHmmLhE/KKLDXFBF6qTWNza4tMPIthSOk=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
-    },
-    {
       "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\ks58mq37zi-8vyfqsqgz1.gz",
       "SourceId": "ditme",
       "SourceType": "Discovered",
@@ -792,6 +771,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\khs6clargo-m9qm4tazc0.gz",
+      "SourceId": "ditme",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ditme",
+      "RelativePath": "lib/jquery/dist/jquery.min#[.{fingerprint=m9qm4tazc0}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "j8ieijp4iy",
+      "Integrity": "02ENHLBRCTwHmmLhE/KKLDXFBF6qTWNza4tMPIthSOk=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
       "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\li79hl7pdb-d4r6k3f320.gz",
@@ -899,27 +899,6 @@
       "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\phm2kmpwgv-ee0r1s7dh0.gz",
-      "SourceId": "ditme",
-      "SourceType": "Discovered",
-      "ContentRoot": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\",
-      "BasePath": "_content/ditme",
-      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint=ee0r1s7dh0}]?.map.gz",
-      "AssetKind": "All",
-      "AssetMode": "All",
-      "AssetRole": "Alternative",
-      "AssetMergeBehavior": "",
-      "AssetMergeSource": "",
-      "RelatedAsset": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
-      "AssetTraitName": "Content-Encoding",
-      "AssetTraitValue": "gzip",
-      "Fingerprint": "kqk14ew2nl",
-      "Integrity": "PBumXrpJefIUX366kZ07GYowOsT9YFX4xEFYFHevQag=",
-      "CopyToOutputDirectory": "Never",
-      "CopyToPublishDirectory": "PreserveNewest",
-      "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
-    },
-    {
       "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\pmjz9igwau-hrwsygsryq.gz",
       "SourceId": "ditme",
       "SourceType": "Discovered",
@@ -960,6 +939,27 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\phm2kmpwgv-ee0r1s7dh0.gz",
+      "SourceId": "ditme",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/ditme",
+      "RelativePath": "lib/bootstrap/dist/css/bootstrap-reboot.rtl.css#[.{fingerprint=ee0r1s7dh0}]?.map.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "kqk14ew2nl",
+      "Integrity": "PBumXrpJefIUX366kZ07GYowOsT9YFX4xEFYFHevQag=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
       "Identity": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\qqymezfdr2-h1s4sie4z3.gz",
@@ -1480,8 +1480,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "kwee3nxv2y",
-      "Integrity": "9LFAydYFO99OBoIf3mRAzGYYskHire6pLdS6E3fHJeo=",
+      "Fingerprint": "ecdaphjazp",
+      "Integrity": "8lAP2HR80/z8QFo0ndYX8ZeConjtT/HKGJOjcXByAVM=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
@@ -2614,8 +2614,8 @@
       "RelatedAsset": "",
       "AssetTraitName": "",
       "AssetTraitValue": "",
-      "Fingerprint": "txu43rt688",
-      "Integrity": "Xwv+5NCp0XD5dNRNgvJpzT/c/9xuBlxCOli4JilWnNU=",
+      "Fingerprint": "6dj9j90sir",
+      "Integrity": "tn4VGOzz7tmXnsAwke2GjNWeRP2dXIpNOQWd/rBdxLg=",
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\js\\site.js"
@@ -4182,12 +4182,12 @@
     },
     {
       "Route": "css/site.css",
-      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\c7y9srjvzy-kwee3nxv2y.gz",
+      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\c7y9srjvzy-ecdaphjazp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000116238521"
+          "Quality": "0.000114090131"
         }
       ],
       "ResponseHeaders": [
@@ -4197,15 +4197,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8602"
+          "Value": "8764"
         },
         {
           "Name": "ETag",
-          "Value": "\"Tk6hbu82pUKQMrkZIZxQwRifGIV0X6pW8Hwds35EB4k=\""
+          "Value": "\"wiyHvuatNXXWoPEndpPr1l3JgrY5oS0OnSeQlzrIAzs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:23:05 GMT"
+          "Value": "Sun, 09 Mar 2025 02:26:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4225,13 +4225,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9LFAydYFO99OBoIf3mRAzGYYskHire6pLdS6E3fHJeo=\""
+          "Value": "W/\"8lAP2HR80/z8QFo0ndYX8ZeConjtT/HKGJOjcXByAVM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9LFAydYFO99OBoIf3mRAzGYYskHire6pLdS6E3fHJeo="
+          "Value": "sha256-8lAP2HR80/z8QFo0ndYX8ZeConjtT/HKGJOjcXByAVM="
         }
       ]
     },
@@ -4246,7 +4246,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "73917"
+          "Value": "74524"
         },
         {
           "Name": "Content-Type",
@@ -4254,11 +4254,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9LFAydYFO99OBoIf3mRAzGYYskHire6pLdS6E3fHJeo=\""
+          "Value": "\"8lAP2HR80/z8QFo0ndYX8ZeConjtT/HKGJOjcXByAVM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:23:05 GMT"
+          "Value": "Sun, 09 Mar 2025 02:26:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4268,13 +4268,13 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-9LFAydYFO99OBoIf3mRAzGYYskHire6pLdS6E3fHJeo="
+          "Value": "sha256-8lAP2HR80/z8QFo0ndYX8ZeConjtT/HKGJOjcXByAVM="
         }
       ]
     },
     {
       "Route": "css/site.css.gz",
-      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\c7y9srjvzy-kwee3nxv2y.gz",
+      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\c7y9srjvzy-ecdaphjazp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4283,7 +4283,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8602"
+          "Value": "8764"
         },
         {
           "Name": "Content-Type",
@@ -4291,11 +4291,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tk6hbu82pUKQMrkZIZxQwRifGIV0X6pW8Hwds35EB4k=\""
+          "Value": "\"wiyHvuatNXXWoPEndpPr1l3JgrY5oS0OnSeQlzrIAzs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:23:05 GMT"
+          "Value": "Sun, 09 Mar 2025 02:26:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4313,18 +4313,18 @@
       "EndpointProperties": [
         {
           "Name": "integrity",
-          "Value": "sha256-Tk6hbu82pUKQMrkZIZxQwRifGIV0X6pW8Hwds35EB4k="
+          "Value": "sha256-wiyHvuatNXXWoPEndpPr1l3JgrY5oS0OnSeQlzrIAzs="
         }
       ]
     },
     {
-      "Route": "css/site.kwee3nxv2y.css",
-      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\c7y9srjvzy-kwee3nxv2y.gz",
+      "Route": "css/site.ecdaphjazp.css",
+      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\c7y9srjvzy-ecdaphjazp.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.000116238521"
+          "Quality": "0.000114090131"
         }
       ],
       "ResponseHeaders": [
@@ -4334,15 +4334,15 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8602"
+          "Value": "8764"
         },
         {
           "Name": "ETag",
-          "Value": "\"Tk6hbu82pUKQMrkZIZxQwRifGIV0X6pW8Hwds35EB4k=\""
+          "Value": "\"wiyHvuatNXXWoPEndpPr1l3JgrY5oS0OnSeQlzrIAzs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:23:05 GMT"
+          "Value": "Sun, 09 Mar 2025 02:26:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4362,13 +4362,13 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"9LFAydYFO99OBoIf3mRAzGYYskHire6pLdS6E3fHJeo=\""
+          "Value": "W/\"8lAP2HR80/z8QFo0ndYX8ZeConjtT/HKGJOjcXByAVM=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kwee3nxv2y"
+          "Value": "ecdaphjazp"
         },
         {
           "Name": "label",
@@ -4376,12 +4376,12 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9LFAydYFO99OBoIf3mRAzGYYskHire6pLdS6E3fHJeo="
+          "Value": "sha256-8lAP2HR80/z8QFo0ndYX8ZeConjtT/HKGJOjcXByAVM="
         }
       ]
     },
     {
-      "Route": "css/site.kwee3nxv2y.css",
+      "Route": "css/site.ecdaphjazp.css",
       "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\css\\site.css",
       "Selectors": [],
       "ResponseHeaders": [
@@ -4391,7 +4391,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "73917"
+          "Value": "74524"
         },
         {
           "Name": "Content-Type",
@@ -4399,11 +4399,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"9LFAydYFO99OBoIf3mRAzGYYskHire6pLdS6E3fHJeo=\""
+          "Value": "\"8lAP2HR80/z8QFo0ndYX8ZeConjtT/HKGJOjcXByAVM=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:23:05 GMT"
+          "Value": "Sun, 09 Mar 2025 02:26:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4413,7 +4413,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kwee3nxv2y"
+          "Value": "ecdaphjazp"
         },
         {
           "Name": "label",
@@ -4421,13 +4421,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-9LFAydYFO99OBoIf3mRAzGYYskHire6pLdS6E3fHJeo="
+          "Value": "sha256-8lAP2HR80/z8QFo0ndYX8ZeConjtT/HKGJOjcXByAVM="
         }
       ]
     },
     {
-      "Route": "css/site.kwee3nxv2y.css.gz",
-      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\c7y9srjvzy-kwee3nxv2y.gz",
+      "Route": "css/site.ecdaphjazp.css.gz",
+      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\c7y9srjvzy-ecdaphjazp.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -4436,7 +4436,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "8602"
+          "Value": "8764"
         },
         {
           "Name": "Content-Type",
@@ -4444,11 +4444,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Tk6hbu82pUKQMrkZIZxQwRifGIV0X6pW8Hwds35EB4k=\""
+          "Value": "\"wiyHvuatNXXWoPEndpPr1l3JgrY5oS0OnSeQlzrIAzs=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:23:05 GMT"
+          "Value": "Sun, 09 Mar 2025 02:26:43 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -4466,7 +4466,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "kwee3nxv2y"
+          "Value": "ecdaphjazp"
         },
         {
           "Name": "label",
@@ -4474,7 +4474,7 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Tk6hbu82pUKQMrkZIZxQwRifGIV0X6pW8Hwds35EB4k="
+          "Value": "sha256-wiyHvuatNXXWoPEndpPr1l3JgrY5oS0OnSeQlzrIAzs="
         }
       ]
     },
@@ -9853,13 +9853,13 @@
       ]
     },
     {
-      "Route": "js/site.js",
-      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\eixpcbqz4r-txu43rt688.gz",
+      "Route": "js/site.6dj9j90sir.js",
+      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\eixpcbqz4r-6dj9j90sir.gz",
       "Selectors": [
         {
           "Name": "Content-Encoding",
           "Value": "gzip",
-          "Quality": "0.003623188406"
+          "Quality": "0.003412969283"
         }
       ],
       "ResponseHeaders": [
@@ -9869,19 +9869,19 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "275"
+          "Value": "292"
         },
         {
           "Name": "ETag",
-          "Value": "\"Vo1otUkz5dy99clnILucyzIotAkzBqLXH4TYm8uqcE4=\""
+          "Value": "\"NyK86qfGqsG82EscJxqIcsldgh8UvZ2QZqAY49s4cpY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:22:29 GMT"
+          "Value": "Wed, 05 Mar 2025 09:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
-          "Value": "no-cache"
+          "Value": "max-age=31536000, immutable"
         },
         {
           "Name": "Content-Encoding",
@@ -9897,18 +9897,26 @@
         },
         {
           "Name": "ETag",
-          "Value": "W/\"Xwv+5NCp0XD5dNRNgvJpzT/c/9xuBlxCOli4JilWnNU=\""
+          "Value": "W/\"tn4VGOzz7tmXnsAwke2GjNWeRP2dXIpNOQWd/rBdxLg=\""
         }
       ],
       "EndpointProperties": [
         {
+          "Name": "fingerprint",
+          "Value": "6dj9j90sir"
+        },
+        {
+          "Name": "label",
+          "Value": "js/site.js"
+        },
+        {
           "Name": "integrity",
-          "Value": "sha256-Xwv+5NCp0XD5dNRNgvJpzT/c/9xuBlxCOli4JilWnNU="
+          "Value": "sha256-tn4VGOzz7tmXnsAwke2GjNWeRP2dXIpNOQWd/rBdxLg="
         }
       ]
     },
     {
-      "Route": "js/site.js",
+      "Route": "js/site.6dj9j90sir.js",
       "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\js\\site.js",
       "Selectors": [],
       "ResponseHeaders": [
@@ -9918,7 +9926,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "619"
+          "Value": "713"
         },
         {
           "Name": "Content-Type",
@@ -9926,121 +9934,21 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xwv+5NCp0XD5dNRNgvJpzT/c/9xuBlxCOli4JilWnNU=\""
+          "Value": "\"tn4VGOzz7tmXnsAwke2GjNWeRP2dXIpNOQWd/rBdxLg=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:22:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Xwv+5NCp0XD5dNRNgvJpzT/c/9xuBlxCOli4JilWnNU="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.js.gz",
-      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\eixpcbqz4r-txu43rt688.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "275"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Vo1otUkz5dy99clnILucyzIotAkzBqLXH4TYm8uqcE4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:22:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "no-cache"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "integrity",
-          "Value": "sha256-Vo1otUkz5dy99clnILucyzIotAkzBqLXH4TYm8uqcE4="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.txu43rt688.js",
-      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\eixpcbqz4r-txu43rt688.gz",
-      "Selectors": [
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip",
-          "Quality": "0.003623188406"
-        }
-      ],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "275"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Vo1otUkz5dy99clnILucyzIotAkzBqLXH4TYm8uqcE4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:22:29 GMT"
+          "Value": "Wed, 05 Mar 2025 09:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
           "Value": "max-age=31536000, immutable"
-        },
-        {
-          "Name": "Content-Encoding",
-          "Value": "gzip"
-        },
-        {
-          "Name": "Vary",
-          "Value": "Content-Encoding"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "W/\"Xwv+5NCp0XD5dNRNgvJpzT/c/9xuBlxCOli4JilWnNU=\""
         }
       ],
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "txu43rt688"
+          "Value": "6dj9j90sir"
         },
         {
           "Name": "label",
@@ -10048,13 +9956,13 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Xwv+5NCp0XD5dNRNgvJpzT/c/9xuBlxCOli4JilWnNU="
+          "Value": "sha256-tn4VGOzz7tmXnsAwke2GjNWeRP2dXIpNOQWd/rBdxLg="
         }
       ]
     },
     {
-      "Route": "js/site.txu43rt688.js",
-      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\js\\site.js",
+      "Route": "js/site.6dj9j90sir.js.gz",
+      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\eixpcbqz4r-6dj9j90sir.gz",
       "Selectors": [],
       "ResponseHeaders": [
         {
@@ -10063,7 +9971,7 @@
         },
         {
           "Name": "Content-Length",
-          "Value": "619"
+          "Value": "292"
         },
         {
           "Name": "Content-Type",
@@ -10071,56 +9979,11 @@
         },
         {
           "Name": "ETag",
-          "Value": "\"Xwv+5NCp0XD5dNRNgvJpzT/c/9xuBlxCOli4JilWnNU=\""
+          "Value": "\"NyK86qfGqsG82EscJxqIcsldgh8UvZ2QZqAY49s4cpY=\""
         },
         {
           "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:22:29 GMT"
-        },
-        {
-          "Name": "Cache-Control",
-          "Value": "max-age=31536000, immutable"
-        }
-      ],
-      "EndpointProperties": [
-        {
-          "Name": "fingerprint",
-          "Value": "txu43rt688"
-        },
-        {
-          "Name": "label",
-          "Value": "js/site.js"
-        },
-        {
-          "Name": "integrity",
-          "Value": "sha256-Xwv+5NCp0XD5dNRNgvJpzT/c/9xuBlxCOli4JilWnNU="
-        }
-      ]
-    },
-    {
-      "Route": "js/site.txu43rt688.js.gz",
-      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\eixpcbqz4r-txu43rt688.gz",
-      "Selectors": [],
-      "ResponseHeaders": [
-        {
-          "Name": "Accept-Ranges",
-          "Value": "bytes"
-        },
-        {
-          "Name": "Content-Length",
-          "Value": "275"
-        },
-        {
-          "Name": "Content-Type",
-          "Value": "text/javascript"
-        },
-        {
-          "Name": "ETag",
-          "Value": "\"Vo1otUkz5dy99clnILucyzIotAkzBqLXH4TYm8uqcE4=\""
-        },
-        {
-          "Name": "Last-Modified",
-          "Value": "Tue, 04 Mar 2025 09:22:29 GMT"
+          "Value": "Wed, 05 Mar 2025 09:00:02 GMT"
         },
         {
           "Name": "Cache-Control",
@@ -10138,7 +10001,7 @@
       "EndpointProperties": [
         {
           "Name": "fingerprint",
-          "Value": "txu43rt688"
+          "Value": "6dj9j90sir"
         },
         {
           "Name": "label",
@@ -10146,7 +10009,144 @@
         },
         {
           "Name": "integrity",
-          "Value": "sha256-Vo1otUkz5dy99clnILucyzIotAkzBqLXH4TYm8uqcE4="
+          "Value": "sha256-NyK86qfGqsG82EscJxqIcsldgh8UvZ2QZqAY49s4cpY="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\eixpcbqz4r-6dj9j90sir.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.003412969283"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NyK86qfGqsG82EscJxqIcsldgh8UvZ2QZqAY49s4cpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 09:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"tn4VGOzz7tmXnsAwke2GjNWeRP2dXIpNOQWd/rBdxLg=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tn4VGOzz7tmXnsAwke2GjNWeRP2dXIpNOQWd/rBdxLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js",
+      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\js\\site.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "713"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"tn4VGOzz7tmXnsAwke2GjNWeRP2dXIpNOQWd/rBdxLg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 09:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-tn4VGOzz7tmXnsAwke2GjNWeRP2dXIpNOQWd/rBdxLg="
+        }
+      ]
+    },
+    {
+      "Route": "js/site.js.gz",
+      "AssetFile": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\obj\\Debug\\net9.0\\compressed\\eixpcbqz4r-6dj9j90sir.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "292"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"NyK86qfGqsG82EscJxqIcsldgh8UvZ2QZqAY49s4cpY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 05 Mar 2025 09:00:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-NyK86qfGqsG82EscJxqIcsldgh8UvZ2QZqAY49s4cpY="
         }
       ]
     },

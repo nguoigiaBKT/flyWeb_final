@@ -11,18 +11,16 @@
             <span class="find-your-ticket-now">Find your ticket Now</span>
             <div class="frame-5">
                 <div class="group">
-                    <div class="rectangle-6"></div>
-                    <div class="frame-7"></div>
-                    <span class="from">From</span>
-                    <div class="frame-8"></div>
-                    <span class="germany">Germany</span>
+                    <label class="frame-7"></label>
+                    <label id="txt-from" for="from" class="travels">From</label>
+                    <label class=""></label>
+                    <input type="text" id="from" name="from" class="input-box" placeholder="Enter departure location">
                 </div>
+
                 <div class="rectangle-13">
-                    <div class="frame-14"></div>
                     <div class="to"></div>
-                    <span class="frame-15">To</span>
-                    <div class="australia"></div>
-                    <span class="group-16">Australia</span>
+                    <span id="txt-to" class="travels">To</span>
+                    <input type="text" id="to" name="to" class="input-box" placeholder="Enter departure location">
                 </div>
 
                 <div class="group-1c">
@@ -31,25 +29,23 @@
                             <div class="vuesax-bold-frame">
                                 <div class="vuesax-bold-frame-1e"></div>
                             </div>
-                            <span class="travels">Travels</span>
+                            <span id="txt-travel" class="travels">Travels</span>
                         </div>
                         <div class="flex-row-b">
-                            <span class="number-02">02</span>
-                            <div class="frame-1f"></div>
                         </div>
                     </div>
-                    <div class="rectangle-20"></div>
+                    <input type="text" class="input-box" placeholder="Số lượng">
                 </div>
 
                 <div class="date-container">
                     <div class="group-9">
                         <label for="check-in">Check In</label>
-                        <input type="date" id="check-in" class="date-input" value="2023-06-01">
+                        <input type="date" id="check-in" class="date-input">
                     </div>
 
-                    <div class="group-9">
+                    <div id="check-out-group" class="group-9">
                         <label for="check-out">Check Out</label>
-                        <input type="date" id="check-out" class="date-input" value="2023-06-10">
+                        <input type="date" id="check-out" class="date-input">
                     </div>
                 </div>
                 <!--Đaay-->
@@ -58,13 +54,13 @@
 
             <div class="flex-row-bb">
                 <label class="option">
-                    <input type="radio" name="tripType" value="one_way" class="radio-input">
+                    <input type="radio" id="one-way" name="tripType" value="one_way" class="radio-input">
                     <span class="one-way">ONE WAY</span>
                     <div class="frame-21"></div>
                 </label>
 
                 <label class="option">
-                    <input type="radio" name="tripType" value="round_way" class="radio-input" checked>
+                    <input type="radio" id="round-way" name="tripType" value="round_way" class="radio-input" checked>
                     <span class="round-way">ROUND WAY</span>
                     <div class="frame-22"></div>
                 </label>
@@ -421,4 +417,8 @@
         <div class="rectangle-9a"></div>
     </div>
 </div>
+
+<script src="~/js/site.js"></script>
+
+
 

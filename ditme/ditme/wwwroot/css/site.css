@@ -86,6 +86,51 @@ button {
     width: 1188.579px;
     z-index: 18;
 }
+.group-16 {
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    position: absolute;
+    height: 11px;
+    top: 33px;
+    left: calc(50% - 93px);
+    color: #ffffff;
+    font-family: Outfit, var(--default-font-family);
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 11px;
+    text-align: left;
+    white-space: nowrap;
+    z-index: 46;
+}
+
+#to{
+    top:33px;
+}
+
+#from{
+    top:23px;
+}
+
+
+.input-box {
+    padding: 10px 35px 10px 10px;
+    font-size: 16px;
+    border: none; /* Loại bỏ viền */
+    background: none; /* Loại bỏ màu nền */
+    color: #ffffff; /* Màu chữ trắng */
+    outline: #ffffff; /* Loại bỏ đường viền khi focus */
+    position: absolute;
+    width: 450px;
+    height: 60px;
+    left: 0;
+    border: 1px solid #ffffff;
+    z-index: 38;
+    border-radius: 15px;
+    font-family: Outfit, var(--default-font-family);
+    font-weight: 500;
+}
+
 
 .flightly {
     flex-shrink: 0;
@@ -346,10 +391,10 @@ button {
 
 .frame-7 {
     position: absolute;
-    width: 12px;
+    width: 13px;
     height: 12px;
-    top: 13px;
-    left: 12px;
+    top: 3px;
+    left: 9px;
     background: url("/img/e6ed93e5-bf02-403d-89a4-457b206b5fab.png") no-repeat center;
     background-size: cover;
     z-index: 42;
@@ -527,6 +572,14 @@ label {
     order: 5; /* Class box - fifth position */
 }
 
+.hidden {
+    visibility: hidden;
+    opacity: 0;
+    height: 0;
+    overflow: hidden;
+    transition: all 0.3s ease-in-out;
+}
+
 
 .group-e {
     position: relative;
@@ -654,10 +707,10 @@ label {
 
 .to {
     position: absolute;
-    width: 12px;
-    height: 12px;
-    top: 13px;
-    left: 12px;
+    width: 13px;
+    height: 13px;
+    top: 15px;
+    left: 10px;
     background: url("/img/d35b7afc-17d4-4237-bd8d-83c3226fa9a6.png") no-repeat center;
     background-size: cover;
     z-index: 48;
@@ -695,31 +748,19 @@ label {
     overflow: hidden;
 }
 
-.group-16 {
-    display: flex;
-    align-items: flex-start;
-    justify-content: flex-start;
-    position: absolute;
-    height: 11px;
-    top: 33px;
-    left: calc(50% - 93px);
-    color: #ffffff;
-    font-family: Outfit, var(--default-font-family);
-    font-size: 16px;
-    font-weight: 500;
-    line-height: 11px;
-    text-align: left;
-    white-space: nowrap;
-    z-index: 46;
+#txt-to {
+    left: 23px;
+    top: 18px;
 }
 
-/*.group-17 {
-    position: relative;
-    width: 210px;
-    height: 60px;
-    z-index: 56;
-    order: 4;*/ /* Check-out box - fourth position */
-/*}*/
+#txt-from {
+    left: 23px;
+    top: 0px;
+}
+
+#txt-travel {
+    top: 15px;
+}
 
 .flex-row-cd {
     position: relative;
@@ -865,7 +906,7 @@ label {
     position: absolute;
     width: 12px;
     height: 12px;
-    top: 0;
+    top: 15px;
     left: 0;
     background: url("/img/c4bdfb0c-1281-49b1-97d9-f0d426a89016.png") no-repeat center;
     background-size: cover;
@@ -883,7 +924,6 @@ label {
     line-height: 8px;
     text-align: left;
     white-space: nowrap;
-    opacity: 0.4;
     z-index: 77;
 }
 
@@ -929,7 +969,7 @@ label {
     position: absolute;
     width: 450px;
     height: 60px;
-    top: 0;
+    top: 40px;
     left: 0;
     border: 1px solid #ffffff;
     opacity: 0.3;
@@ -943,6 +983,7 @@ label {
     height: 19px;
     margin: 18px 0 0 25px;
     z-index: 86;
+    top:15px;
 }
 
 .one-way {
