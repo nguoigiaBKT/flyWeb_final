@@ -25,13 +25,10 @@
                     <a href="#" class="how-it-works">How it Works</a>
                     <a href="#" class="about-us">About Us</a>
                     <a href="#" class="contact-us">Contact Us</a>
+                    <button id="open-login" class="btn btn-primary">Log in</button>
+
                 </div>
-                <div class="frame-3">
-                    <a href="#" class="sign-in">SIGN IN</a>
-                    <div class="frame-4">
-                        <a href="#" class="sign-up">Sign Up</a>
-                    </div>
-                </div>
+				<partial name="_LoginPartial" />
             </div>
         </nav>
     </header>
@@ -48,6 +45,7 @@
         </div>
     </footer>
 
-    
+    @RenderSection("Scripts", required: false)
+
 </body>
 </html>

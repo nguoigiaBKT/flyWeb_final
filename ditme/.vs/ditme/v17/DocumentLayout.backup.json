@@ -3,28 +3,16 @@
   "WorkspaceRootPath": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|d:\\hutech\\laptrinhweb\\flyweb_final\\ditme\\ditme\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|solutionrelative:ditme\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|d:\\hutech\\laptrinhweb\\flyweb_final\\ditme\\ditme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|solutionrelative:ditme\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|d:\\hutech\\laptrinhweb\\flyweb_final\\ditme\\ditme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|solutionrelative:ditme\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|d:\\hutech\\laptrinhweb\\flyweb_final\\ditme\\ditme\\views\\home\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|solutionrelative:ditme\\views\\home\\booking.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|d:\\hutech\\laptrinhweb\\flyweb_final\\ditme\\ditme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|solutionrelative:ditme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|d:\\hutech\\laptrinhweb\\flyweb_final\\ditme\\ditme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|solutionrelative:ditme\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|d:\\hutech\\laptrinhweb\\flyweb_final\\ditme\\ditme\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
-      "RelativeMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|solutionrelative:ditme\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+      "AbsoluteMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|d:\\hutech\\laptrinhweb\\flyweb_final\\ditme\\ditme\\migrations\\20250309045228_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D158022E-D280-4E2D-BDF8-C7597CFA6DB7}|ditme\\ditme.csproj|solutionrelative:ditme\\migrations\\20250309045228_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -50,80 +38,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "site.js",
-              "DocumentMoniker": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\js\\site.js",
-              "RelativeDocumentMoniker": "ditme\\wwwroot\\js\\site.js",
-              "ToolTip": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\js\\site.js",
-              "RelativeToolTip": "ditme\\wwwroot\\js\\site.js",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
-              "WhenOpened": "2025-03-04T08:38:03.42Z",
-              "IsPinned": true
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Booking.cshtml",
-              "DocumentMoniker": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Views\\Home\\Booking.cshtml",
-              "RelativeDocumentMoniker": "ditme\\Views\\Home\\Booking.cshtml",
-              "ToolTip": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Views\\Home\\Booking.cshtml",
-              "RelativeToolTip": "ditme\\Views\\Home\\Booking.cshtml",
-              "ViewState": "AgIAACYBAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-05T08:33:20.384Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "site.css",
-              "DocumentMoniker": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\css\\site.css",
-              "RelativeDocumentMoniker": "ditme\\wwwroot\\css\\site.css",
-              "ToolTip": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\css\\site.css*",
-              "RelativeToolTip": "ditme\\wwwroot\\css\\site.css*",
-              "ViewState": "AgIAAHEAAAAAAAAAAAASwIQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-03-02T12:13:17.872Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "ditme\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "ditme\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAswBsAAABTAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T08:06:15.23Z",
+              "WhenOpened": "2025-03-09T04:56:25.787Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "ditme\\Views\\Home\\Index.cshtml",
-              "ToolTip": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "ditme\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAAACQAAAA4AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-02T08:04:50.777Z",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Program.cs",
+              "RelativeDocumentMoniker": "ditme\\Program.cs",
+              "ToolTip": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Program.cs",
+              "RelativeToolTip": "ditme\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-09T04:56:01.396Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "HomeController.cs",
-              "DocumentMoniker": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Controllers\\HomeController.cs",
-              "RelativeDocumentMoniker": "ditme\\Controllers\\HomeController.cs",
-              "ToolTip": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Controllers\\HomeController.cs",
-              "RelativeToolTip": "ditme\\Controllers\\HomeController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCIAAAATAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "20250309045228_initial.cs",
+              "DocumentMoniker": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Migrations\\20250309045228_initial.cs",
+              "RelativeDocumentMoniker": "ditme\\Migrations\\20250309045228_initial.cs",
+              "ToolTip": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\Migrations\\20250309045228_initial.cs",
+              "RelativeToolTip": "ditme\\Migrations\\20250309045228_initial.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T08:02:31.091Z",
+              "WhenOpened": "2025-03-09T04:52:28.659Z",
               "EditorCaption": ""
             }
           ]

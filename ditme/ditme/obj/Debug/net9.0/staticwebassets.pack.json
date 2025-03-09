@@ -9,6 +9,10 @@
       "PackagePath": "staticwebassets\\css\\booking.css"
     },
     {
+      "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\css\\login.css",
+      "PackagePath": "staticwebassets\\css\\login.css"
+    },
+    {
       "Id": "D:\\HUTECH\\LapTrinhWeb\\flyWeb_final\\ditme\\ditme\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
